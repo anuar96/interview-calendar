@@ -2,7 +2,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import 'react-week-calendar/dist/style.css';
-/*import '../../../src/style.less';*/
+//import '../../../src/style.css';
 import StandardCalendar from './StandardCalendar';
 import CustomCalendar from './CustomCalendar';
 
